@@ -1,4 +1,11 @@
-/*Binary search simple algorithm*/
+/*
+Binary search simple algorithm
+
+To compile:
+gcc -ansi -pedantic -W -Wall BinarySearch.c -lm -o BinarySearch
+To run:
+./BinarySearch
+*/
 #include "stdio.h"
 #include "math.h"
 #define MAX 20
